@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Tableau temporary files
+*.twbr
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
